@@ -4,7 +4,7 @@ A simple desktop app for meal tracking using the Harmonic Weight Loss Formula:
 
 ## Core Formula
 
-Liquid ÷ Food ≥ 2.5
+Liquid ≥ Food * 2.5
 
 Example:
 
